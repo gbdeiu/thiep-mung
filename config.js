@@ -2,7 +2,7 @@ const nameGirl = 'Nhật Hạ';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = 'Tặng Nhật Hạ nhé<3';
-const contentCard = 'Chúc cậu sinh nhật có nhiều niềm vui tràn ngập niềm vui và những nụ cười, tuổi mới chúc bạn ngày càng trưởng thành và xinh xắn hơn nhé<3';
+const contentCard = 'Chúc cậu sinh nhật có nhiều niềm vui, tuổi mới chúc bạn ngày càng trưởng thành và xinh xắn hơn nhé<3';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
